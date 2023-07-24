@@ -1,0 +1,1824 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"XXXXX",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "open_ads_alien":"",
+      "open_ads_max":"",
+      "open_wortise":"",
+      "on_off_native_listview":"1",
+      "mode_list": "3",
+      "interval_intertitial": 3,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "on_off_category":""
+    }
+  ],
+  "More": [
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Coming Soon",
+      "image": "https://materinesia.com/wallpaper/comingsoon.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Coming Soon",
+      "image": "https://materinesia.com/wallpaper/comingsoon.jpg"
+    }
+  ],
+ "Data": 
+ [
+
+        {
+            "id": "3",
+            "name_category": "clash",
+            "title": "clash 3",
+            "image": "https://i.pinimg.com/originals/e9/b4/d9/e9b4d9505e9b931730d43a4caddddca3.jpg"
+        },
+        {
+            "id": "4",
+            "name_category": "clash",
+            "title": "clash 4",
+            "image": "https://i.pinimg.com/originals/ec/67/48/ec6748c22e02873b8b81559c0780e18d.jpg"
+        },
+        {
+            "id": "5",
+            "name_category": "clash",
+            "title": "clash 5",
+            "image": "https://i.pinimg.com/originals/9e/96/80/9e96806b81187637253df8069cd2fb48.jpg"
+        },
+        {
+            "id": "7",
+            "name_category": "clash",
+            "title": "clash 7",
+            "image": "https://i.pinimg.com/originals/16/52/5a/16525a404fae656bad0b9e1ce492105f.jpg"
+        },
+        {
+            "id": "8",
+            "name_category": "clash",
+            "title": "clash 8",
+            "image": "https://i.pinimg.com/originals/33/37/e3/3337e394ead941d892dea91da5879169.jpg"
+        },
+        {
+            "id": "9",
+            "name_category": "clash",
+            "title": "clash 9",
+            "image": "https://i.pinimg.com/originals/f3/c2/44/f3c244b40fcd746f65209330be6cbe78.jpg"
+        },
+        {
+            "id": "10",
+            "name_category": "clash",
+            "title": "clash 10",
+            "image": "https://i.pinimg.com/originals/32/49/c2/3249c23dd296b6caeca1c3d2ebaa7fac.jpg"
+        },
+        {
+            "id": "11",
+            "name_category": "clash",
+            "title": "clash 11",
+            "image": "https://i.pinimg.com/originals/8d/d8/ae/8dd8ae2d107abaf0a9f026465c92a3f2.jpg"
+        },
+        {
+            "id": "12",
+            "name_category": "clash",
+            "title": "clash 12",
+            "image": "https://i.pinimg.com/originals/51/01/39/510139e4881da9378f78ee20ed449884.jpg"
+        },
+        {
+            "id": "13",
+            "name_category": "clash",
+            "title": "clash 13",
+            "image": "https://i.pinimg.com/originals/30/c6/ee/30c6ee86446070b38daf5e54b7aeb02f.jpg"
+        },
+        {
+            "id": "14",
+            "name_category": "clash",
+            "title": "clash 14",
+            "image": "https://i.pinimg.com/originals/54/80/52/548052bae4ef608d7d2a3a4f5c7ff694.jpg"
+        },
+        {
+            "id": "15",
+            "name_category": "clash",
+            "title": "clash 15",
+            "image": "https://i.pinimg.com/originals/81/75/e7/8175e71812eadc3cf907b3c168839e6b.jpg"
+        },
+        {
+            "id": "16",
+            "name_category": "clash",
+            "title": "clash 16",
+            "image": "https://i.pinimg.com/originals/77/eb/ab/77ebab9a6759d2977742051102a00393.jpg"
+        },
+        {
+            "id": "17",
+            "name_category": "clash",
+            "title": "clash 17",
+            "image": "https://i.pinimg.com/originals/00/7a/26/007a26a8521c908af20d39c4afa4d6cf.jpg"
+        },
+        {
+            "id": "18",
+            "name_category": "clash",
+            "title": "clash 18",
+            "image": "https://i.pinimg.com/originals/48/9c/64/489c6497e5e71d14d9be6ada95ca35d9.jpg"
+        },
+        {
+            "id": "19",
+            "name_category": "clash",
+            "title": "clash 19",
+            "image": "https://i.pinimg.com/originals/8a/aa/a1/8aaaa125b7f60c84703bc19b88a69e4e.jpg"
+        },
+        {
+            "id": "20",
+            "name_category": "clash",
+            "title": "clash 20",
+            "image": "https://i.pinimg.com/originals/54/a0/ac/54a0ac2cc5ad8f67eec4d05f9af11edb.jpg"
+        },
+        {
+            "id": "21",
+            "name_category": "clash",
+            "title": "clash 21",
+            "image": "https://i.pinimg.com/originals/96/29/cb/9629cbdbd83aa12a720649ff7b756156.jpg"
+        },
+        {
+            "id": "22",
+            "name_category": "clash",
+            "title": "clash 22",
+            "image": "https://i.pinimg.com/originals/7d/37/61/7d37617e44d7d630f2a2ba6017ecc202.jpg"
+        },
+        {
+            "id": "23",
+            "name_category": "clash",
+            "title": "clash 23",
+            "image": "https://i.pinimg.com/originals/6c/c8/fe/6cc8fe9337671a3a475f43b984a07b32.jpg"
+        },
+
+        {
+            "id": "25",
+            "name_category": "clash",
+            "title": "clash 25",
+            "image": "https://i.pinimg.com/originals/ca/04/d2/ca04d2a7e579e57733732e05c9df65ba.jpg"
+        },
+        {
+            "id": "26",
+            "name_category": "clash",
+            "title": "clash 26",
+            "image": "https://i.pinimg.com/originals/eb/9a/92/eb9a922fdd2c356fc07463e3478e4cfa.jpg"
+        },
+        {
+            "id": "27",
+            "name_category": "clash",
+            "title": "clash 27",
+            "image": "https://i.pinimg.com/originals/77/a1/cb/77a1cbcace87b64650d8a1d160440467.jpg"
+        },
+        {
+            "id": "28",
+            "name_category": "clash",
+            "title": "clash 28",
+            "image": "https://i.pinimg.com/originals/c8/72/39/c872390ec6c83bb1ea6e1874d156c02c.jpg"
+        },
+        {
+            "id": "29",
+            "name_category": "clash",
+            "title": "clash 29",
+            "image": "https://i.pinimg.com/originals/4f/d1/1e/4fd11e23871e3428f8026f3415bcfe4e.jpg"
+        },
+        {
+            "id": "30",
+            "name_category": "clash",
+            "title": "clash 30",
+            "image": "https://i.pinimg.com/originals/dd/98/01/dd98018e38d202755e8537df575f5c0a.jpg"
+        },
+        {
+            "id": "31",
+            "name_category": "clash",
+            "title": "clash 31",
+            "image": "https://i.pinimg.com/originals/a5/9d/53/a59d535a2d2886195da726080fecdba4.jpg"
+        },
+        {
+            "id": "32",
+            "name_category": "clash",
+            "title": "clash 32",
+            "image": "https://i.pinimg.com/originals/2f/88/e9/2f88e966dc192d57d8c0156c4955b6ee.jpg"
+        },
+        {
+            "id": "33",
+            "name_category": "clash",
+            "title": "clash 33",
+            "image": "https://i.pinimg.com/originals/e9/3a/80/e93a80b6cead30e02e0058fdd104d9a1.jpg"
+        },
+        {
+            "id": "34",
+            "name_category": "clash",
+            "title": "clash 34",
+            "image": "https://i.pinimg.com/originals/78/6b/d2/786bd24ab0184cddb2b54a458f954c9b.jpg"
+        },
+        {
+            "id": "35",
+            "name_category": "clash",
+            "title": "clash 35",
+            "image": "https://i.pinimg.com/originals/8c/38/90/8c3890361468b4be350fe810317c812a.jpg"
+        },
+        {
+            "id": "36",
+            "name_category": "clash",
+            "title": "clash 36",
+            "image": "https://i.pinimg.com/originals/49/f9/48/49f948fe7c23a56efcaeb837766c291b.jpg"
+        },
+        {
+            "id": "37",
+            "name_category": "clash",
+            "title": "clash 37",
+            "image": "https://i.pinimg.com/originals/b0/6f/4f/b06f4f046d5367d5661289d7b3fcbb71.jpg"
+        },
+        {
+            "id": "38",
+            "name_category": "clash",
+            "title": "clash 38",
+            "image": "https://i.pinimg.com/originals/09/46/24/094624f945880eea7407ffd16d17faf6.jpg"
+        },
+        {
+            "id": "39",
+            "name_category": "clash",
+            "title": "clash 39",
+            "image": "https://i.pinimg.com/originals/51/8d/b7/518db7f85377d93c7382048431ea61ca.jpg"
+        },
+        {
+            "id": "40",
+            "name_category": "clash",
+            "title": "clash 40",
+            "image": "https://i.pinimg.com/originals/4d/f8/b5/4df8b5b3a9aa1b71620e2ff1b077bc4e.jpg"
+        },
+        {
+            "id": "41",
+            "name_category": "clash",
+            "title": "clash 41",
+            "image": "https://i.pinimg.com/originals/3b/b3/df/3bb3dfe1be12fd567343d0140254530e.jpg"
+        },
+        {
+            "id": "42",
+            "name_category": "clash",
+            "title": "clash 42",
+            "image": "https://i.pinimg.com/originals/b4/b6/24/b4b624a09f215ee38a72fb1e42ab2806.jpg"
+        },
+        {
+            "id": "43",
+            "name_category": "clash",
+            "title": "clash 43",
+            "image": "https://i.pinimg.com/originals/e3/25/fc/e325fc133aeac590064f1f071252f04f.jpg"
+        },
+        {
+            "id": "44",
+            "name_category": "clash",
+            "title": "clash 44",
+            "image": "https://i.pinimg.com/originals/36/3d/c5/363dc5dcd87c088d1d5381aacaf12bcc.jpg"
+        },
+        {
+            "id": "45",
+            "name_category": "clash",
+            "title": "clash 45",
+            "image": "https://i.pinimg.com/originals/a7/90/c5/a790c5e9929f0f091cd3e1c801c49b40.jpg"
+        },
+        {
+            "id": "46",
+            "name_category": "clash",
+            "title": "clash 46",
+            "image": "https://i.pinimg.com/originals/c9/f1/72/c9f172f7fdd119557b67fb3b82c5abac.jpg"
+        },
+        {
+            "id": "47",
+            "name_category": "clash",
+            "title": "clash 47",
+            "image": "https://i.pinimg.com/originals/1c/c5/cd/1cc5cd7d45d7771ac564897c06c2f0af.jpg"
+        },
+        {
+            "id": "48",
+            "name_category": "clash",
+            "title": "clash 48",
+            "image": "https://i.pinimg.com/originals/81/e1/54/81e15442ee56f62c55b6d1de3afd7e3a.jpg"
+        },
+        {
+            "id": "49",
+            "name_category": "clash",
+            "title": "clash 49",
+            "image": "https://i.pinimg.com/originals/85/0d/80/850d80424364220b7fa6e757dd3716f4.jpg"
+        },
+        {
+            "id": "50",
+            "name_category": "clash",
+            "title": "clash 50",
+            "image": "https://i.pinimg.com/originals/d7/4c/44/d74c447afdcb44eeefb61ce428ff4c3c.jpg"
+        },
+        {
+            "id": "51",
+            "name_category": "clash",
+            "title": "clash 51",
+            "image": "https://i.pinimg.com/originals/7d/b4/22/7db422c6010de250b693978427c08134.jpg"
+        },
+        {
+            "id": "52",
+            "name_category": "clash",
+            "title": "clash 52",
+            "image": "https://i.pinimg.com/originals/05/45/4f/05454fddd9ab53713d5fbda9fa2ba9de.jpg"
+        },
+        {
+            "id": "53",
+            "name_category": "clash",
+            "title": "clash 53",
+            "image": "https://i.pinimg.com/originals/6c/bc/5e/6cbc5ef6fb63cc08cd3423d8ce70a174.jpg"
+        },
+        {
+            "id": "54",
+            "name_category": "clash",
+            "title": "clash 54",
+            "image": "https://i.pinimg.com/originals/64/8d/da/648dda166da04b2dde1a292617812f6f.jpg"
+        },
+        {
+            "id": "55",
+            "name_category": "clash",
+            "title": "clash 55",
+            "image": "https://i.pinimg.com/originals/94/b9/c1/94b9c18380cdf5fd89c265de8632e9ce.jpg"
+        },
+        {
+            "id": "56",
+            "name_category": "clash",
+            "title": "clash 56",
+            "image": "https://i.pinimg.com/originals/73/38/83/7338835e1b67e0eea9290b76d75467b8.png"
+        },
+        {
+            "id": "57",
+            "name_category": "clash",
+            "title": "clash 57",
+            "image": "https://i.pinimg.com/originals/18/5d/3e/185d3ea53963e4faaf4a56b87f5828da.jpg"
+        },
+        {
+            "id": "58",
+            "name_category": "clash",
+            "title": "clash 58",
+            "image": "https://i.pinimg.com/originals/7c/93/70/7c9370f97e098ff3611142ff286456e8.jpg"
+        },
+        {
+            "id": "59",
+            "name_category": "clash",
+            "title": "clash 59",
+            "image": "https://i.pinimg.com/originals/23/51/88/23518869889beab96523c57791de83e6.jpg"
+        },
+        {
+            "id": "60",
+            "name_category": "clash",
+            "title": "clash 60",
+            "image": "https://i.pinimg.com/originals/13/21/16/132116a3f4dcc5c232b41e4d916194cb.jpg"
+        },
+        {
+            "id": "61",
+            "name_category": "clash",
+            "title": "clash 61",
+            "image": "https://i.pinimg.com/originals/9e/34/33/9e34335f1fe9541463f761efced5ad72.jpg"
+        },
+        {
+            "id": "62",
+            "name_category": "clash",
+            "title": "clash 62",
+            "image": "https://i.pinimg.com/originals/7a/a7/4a/7aa74a6112f657c5d8ebfb91e2b5d842.jpg"
+        },
+        {
+            "id": "63",
+            "name_category": "clash",
+            "title": "clash 63",
+            "image": "https://i.pinimg.com/originals/e8/54/b9/e854b9c1d0f74e2c0b313e013ad65ccc.jpg"
+        },
+        {
+            "id": "64",
+            "name_category": "clash",
+            "title": "clash 64",
+            "image": "https://i.pinimg.com/originals/55/eb/15/55eb15a8aa232781ff9da7f977d1257a.jpg"
+        },
+        {
+            "id": "65",
+            "name_category": "clash",
+            "title": "clash 65",
+            "image": "https://i.pinimg.com/originals/39/ea/5a/39ea5af217a65862aa795f47d959f187.png"
+        },
+        {
+            "id": "66",
+            "name_category": "clash",
+            "title": "clash 66",
+            "image": "https://i.pinimg.com/originals/04/21/51/0421511ddb4ebfe7aaff1216f22732c4.jpg"
+        },
+        {
+            "id": "67",
+            "name_category": "clash",
+            "title": "clash 67",
+            "image": "https://i.pinimg.com/originals/03/96/62/0396622f81c76f08e53ff9fc66223f84.jpg"
+        },
+        {
+            "id": "68",
+            "name_category": "clash",
+            "title": "clash 68",
+            "image": "https://i.pinimg.com/originals/fe/d6/49/fed6492bc09194518731c7171006dec0.png"
+        },
+        {
+            "id": "69",
+            "name_category": "clash",
+            "title": "clash 69",
+            "image": "https://i.pinimg.com/originals/54/c8/f5/54c8f5f81bc86ca8dcc903c0bcaec6d4.jpg"
+        },
+        {
+            "id": "70",
+            "name_category": "clash",
+            "title": "clash 70",
+            "image": "https://i.pinimg.com/originals/ee/46/ec/ee46ec69378be08206d48de3419ab508.jpg"
+        },
+        {
+            "id": "71",
+            "name_category": "clash",
+            "title": "clash 71",
+            "image": "https://i.pinimg.com/originals/12/16/6b/12166b95a0c9170bb308720efb882afe.jpg"
+        },
+        {
+            "id": "72",
+            "name_category": "clash",
+            "title": "clash 72",
+            "image": "https://i.pinimg.com/originals/1f/e8/f2/1fe8f27248b62c3e74633343bfdbe9b0.jpg"
+        },
+        {
+            "id": "73",
+            "name_category": "clash",
+            "title": "clash 73",
+            "image": "https://i.pinimg.com/originals/5f/79/3b/5f793bc0ee76b8f3f7bf0ae8b3c0bd9d.jpg"
+        },
+        {
+            "id": "74",
+            "name_category": "clash",
+            "title": "clash 74",
+            "image": "https://i.pinimg.com/originals/0a/89/31/0a893100ac9ca1e3d73d21532176ab9c.jpg"
+        },
+        {
+            "id": "75",
+            "name_category": "clash",
+            "title": "clash 75",
+            "image": "https://i.pinimg.com/originals/33/06/2c/33062c24f0b5fc92765e35a57cb8b293.png"
+        },
+        {
+            "id": "76",
+            "name_category": "clash",
+            "title": "clash 76",
+            "image": "https://i.pinimg.com/originals/c3/a7/fd/c3a7fdce62ff8fb59d7a9a9568bc3134.jpg"
+        },
+        {
+            "id": "77",
+            "name_category": "clash",
+            "title": "clash 77",
+            "image": "https://i.pinimg.com/originals/30/c1/2a/30c12a59d5c59ea5edb4aeefad0f977b.jpg"
+        },
+        {
+            "id": "78",
+            "name_category": "clash",
+            "title": "clash 78",
+            "image": "https://i.pinimg.com/originals/1f/ee/f8/1feef8993598535c2de40b3f175f7770.jpg"
+        },
+        {
+            "id": "79",
+            "name_category": "clash",
+            "title": "clash 79",
+            "image": "https://i.pinimg.com/originals/c9/5c/6e/c95c6e5be66a3d2f85a4433583733ae0.png"
+        },
+        {
+            "id": "80",
+            "name_category": "clash",
+            "title": "clash 80",
+            "image": "https://i.pinimg.com/originals/35/6d/3a/356d3a7faa267bd1a896cb07d82a98fd.jpg"
+        },
+        {
+            "id": "81",
+            "name_category": "clash",
+            "title": "clash 81",
+            "image": "https://i.pinimg.com/originals/a8/c7/38/a8c7389277e683e1ea8017bd9edcbb6e.png"
+        },
+        {
+            "id": "82",
+            "name_category": "clash",
+            "title": "clash 82",
+            "image": "https://i.pinimg.com/originals/1c/eb/08/1ceb0896ee4734d6ad4639ff1d896362.png"
+        },
+        {
+            "id": "83",
+            "name_category": "clash",
+            "title": "clash 83",
+            "image": "https://i.pinimg.com/originals/4e/d1/b5/4ed1b5e7e588d88d22f0c347eb3b118a.jpg"
+        },
+        {
+            "id": "84",
+            "name_category": "clash",
+            "title": "clash 84",
+            "image": "https://i.pinimg.com/originals/a2/96/b8/a296b847933557a7111e95b5077ac8fd.jpg"
+        },
+        {
+            "id": "85",
+            "name_category": "clash",
+            "title": "clash 85",
+            "image": "https://i.pinimg.com/originals/84/8f/3c/848f3cc93aa59ee09103d8f3b3eeb04c.jpg"
+        },
+        {
+            "id": "86",
+            "name_category": "clash",
+            "title": "clash 86",
+            "image": "https://i.pinimg.com/originals/fc/76/c7/fc76c7dde2054532789272c9af9e5bc3.jpg"
+        },
+        {
+            "id": "87",
+            "name_category": "clash",
+            "title": "clash 87",
+            "image": "https://i.pinimg.com/originals/6c/74/63/6c746383270934dc395a6ca00265161a.png"
+        },
+        {
+            "id": "88",
+            "name_category": "clash",
+            "title": "clash 88",
+            "image": "https://i.pinimg.com/originals/90/1a/0f/901a0f43dcce2541195d079dbf2b978c.jpg"
+        },
+        {
+            "id": "89",
+            "name_category": "clash",
+            "title": "clash 89",
+            "image": "https://i.pinimg.com/originals/99/6c/d2/996cd215e897e00e1ac54d25a5d9ef81.jpg"
+        },
+        {
+            "id": "90",
+            "name_category": "clash",
+            "title": "clash 90",
+            "image": "https://i.pinimg.com/originals/1f/64/cf/1f64cfa93d02e70fc3632cfbeeabc4af.jpg"
+        },
+        {
+            "id": "91",
+            "name_category": "clash",
+            "title": "clash 91",
+            "image": "https://i.pinimg.com/originals/8e/ff/05/8eff0547abf3a3f47cd99484a55c5d84.jpg"
+        },
+        {
+            "id": "92",
+            "name_category": "clash",
+            "title": "clash 92",
+            "image": "https://i.pinimg.com/originals/0e/41/08/0e4108ffb89af0050803d3f6c0865f77.png"
+        },
+        {
+            "id": "93",
+            "name_category": "clash",
+            "title": "clash 93",
+            "image": "https://i.pinimg.com/originals/79/f6/e7/79f6e7bff9f8503d94637f0d88ceda1d.jpg"
+        },
+        {
+            "id": "94",
+            "name_category": "clash",
+            "title": "clash 94",
+            "image": "https://i.pinimg.com/originals/a6/7e/c2/a67ec26d5d9b0bc942fe60eb6025c4ad.jpg"
+        },
+        {
+            "id": "95",
+            "name_category": "clash",
+            "title": "clash 95",
+            "image": "https://i.pinimg.com/originals/e6/99/9b/e6999b825367b83f6699ebdf14cbef3a.jpg"
+        },
+        {
+            "id": "96",
+            "name_category": "clash",
+            "title": "clash 96",
+            "image": "https://i.pinimg.com/originals/21/1e/17/211e17854416599f96f5d63590a310ba.jpg"
+        },
+        {
+            "id": "97",
+            "name_category": "clash",
+            "title": "clash 97",
+            "image": "https://i.pinimg.com/originals/92/1e/0e/921e0e6a64650417c7eb7865fcd4dd4d.jpg"
+        },
+        {
+            "id": "98",
+            "name_category": "clash",
+            "title": "clash 98",
+            "image": "https://i.pinimg.com/originals/96/af/b6/96afb649e715856a51944b941aac2d42.jpg"
+        },
+        {
+            "id": "99",
+            "name_category": "clash",
+            "title": "clash 99",
+            "image": "https://i.pinimg.com/originals/9a/27/e3/9a27e319ecf9b3d195590c8e88d9d828.jpg"
+        },
+        {
+            "id": "100",
+            "name_category": "clash",
+            "title": "clash 100",
+            "image": "https://i.pinimg.com/originals/7e/25/0a/7e250a19d0bc4f32ed83501cf934ddca.jpg"
+        },
+        {
+            "id": "101",
+            "name_category": "clash",
+            "title": "clash 101",
+            "image": "https://i.pinimg.com/originals/2e/1b/1b/2e1b1b32782bc2cde3ce0bc91466e23d.jpg"
+        },
+        {
+            "id": "102",
+            "name_category": "clash",
+            "title": "clash 102",
+            "image": "https://i.pinimg.com/originals/e3/94/b7/e394b7ee861e13fd14098b3b12dd24a5.jpg"
+        },
+        {
+            "id": "103",
+            "name_category": "clash",
+            "title": "clash 103",
+            "image": "https://i.pinimg.com/originals/22/16/40/2216402ad0f4b056f7ebcc33d6c3a5aa.jpg"
+        },
+        {
+            "id": "104",
+            "name_category": "clash",
+            "title": "clash 104",
+            "image": "https://i.pinimg.com/originals/a6/95/c8/a695c8864505855f25d3321455b8a9f5.jpg"
+        },
+        {
+            "id": "105",
+            "name_category": "clash",
+            "title": "clash 105",
+            "image": "https://i.pinimg.com/originals/cd/fc/33/cdfc33f5458c59a978195dd76a4cf8cd.png"
+        },
+        {
+            "id": "106",
+            "name_category": "clash",
+            "title": "clash 106",
+            "image": "https://i.pinimg.com/originals/8f/f8/26/8ff8269cbb7aef9722bce4cac051a01f.jpg"
+        },
+        {
+            "id": "107",
+            "name_category": "clash",
+            "title": "clash 107",
+            "image": "https://i.pinimg.com/originals/c0/0b/78/c00b781d3a462249ffafae9cf1710bac.gif"
+        },
+        {
+            "id": "108",
+            "name_category": "clash",
+            "title": "clash 108",
+            "image": "https://i.pinimg.com/originals/c9/c7/2e/c9c72ebfb5f2b2cc663431540596360d.jpg"
+        },
+        {
+            "id": "109",
+            "name_category": "clash",
+            "title": "clash 109",
+            "image": "https://i.pinimg.com/originals/ee/71/a6/ee71a662f9421a3d5669fa00b116f846.jpg"
+        },
+        {
+            "id": "110",
+            "name_category": "clash",
+            "title": "clash 110",
+            "image": "https://i.pinimg.com/originals/27/e3/3e/27e33e90a5354f86b411184c27390fe2.jpg"
+        },
+        {
+            "id": "111",
+            "name_category": "clash",
+            "title": "clash 111",
+            "image": "https://i.pinimg.com/originals/2d/d4/39/2dd439d5cff7a8e507f550d5c6ee972c.jpg"
+        },
+        {
+            "id": "112",
+            "name_category": "clash",
+            "title": "clash 112",
+            "image": "https://i.pinimg.com/originals/fb/cb/3d/fbcb3d1a8c0b3f08f026170a1b66904f.jpg"
+        },
+        {
+            "id": "113",
+            "name_category": "clash",
+            "title": "clash 113",
+            "image": "https://i.pinimg.com/originals/09/ef/dd/09efdddbe09841da6cba740e25071550.jpg"
+        },
+        {
+            "id": "114",
+            "name_category": "clash",
+            "title": "clash 114",
+            "image": "https://i.pinimg.com/originals/1a/a5/6b/1aa56b2b03e6fb9f2404c6cb894a3312.gif"
+        },
+        {
+            "id": "115",
+            "name_category": "clash",
+            "title": "clash 115",
+            "image": "https://i.pinimg.com/originals/d8/3a/dc/d83adc9aed872063a36b6a63b2f115b0.jpg"
+        },
+        {
+            "id": "116",
+            "name_category": "clash",
+            "title": "clash 116",
+            "image": "https://i.pinimg.com/originals/31/e1/89/31e1891d06e8d2168f65eedaf1f49438.jpg"
+        },
+        {
+            "id": "117",
+            "name_category": "clash",
+            "title": "clash 117",
+            "image": "https://i.pinimg.com/originals/1b/d7/26/1bd7269225bf7f810ad535dca5eec86f.jpg"
+        },
+        {
+            "id": "118",
+            "name_category": "clash",
+            "title": "clash 118",
+            "image": "https://i.pinimg.com/originals/19/d6/1c/19d61c755330f8485fa41ba7beba0197.png"
+        },
+        {
+            "id": "119",
+            "name_category": "clash",
+            "title": "clash 119",
+            "image": "https://i.pinimg.com/originals/c0/6c/14/c06c140e603a147c7e3c50464c87d1c6.jpg"
+        },
+        {
+            "id": "120",
+            "name_category": "clash",
+            "title": "clash 120",
+            "image": "https://i.pinimg.com/originals/7c/89/d5/7c89d52bab63263dfda9ae74f0003880.png"
+        },
+        {
+            "id": "121",
+            "name_category": "clash",
+            "title": "clash 121",
+            "image": "https://i.pinimg.com/originals/0a/6f/78/0a6f78376bbd5e18044bbc966eb782c4.jpg"
+        },
+        {
+            "id": "122",
+            "name_category": "clash",
+            "title": "clash 122",
+            "image": "https://i.pinimg.com/originals/c4/52/77/c45277d7f5c1fa06e448d94287bf61e0.png"
+        },
+
+        {
+            "id": "124",
+            "name_category": "clash",
+            "title": "clash 124",
+            "image": "https://i.pinimg.com/originals/e8/d7/40/e8d740f52ecddc90e98760d90f482cfb.png"
+        },
+        {
+            "id": "125",
+            "name_category": "clash",
+            "title": "clash 125",
+            "image": "https://i.pinimg.com/originals/3b/c7/ab/3bc7ab1f3ca64cf97a08b94fe2a4a407.png"
+        },
+        {
+            "id": "126",
+            "name_category": "clash",
+            "title": "clash 126",
+            "image": "https://i.pinimg.com/originals/3e/21/e4/3e21e4cb502aae392d209e0fc2e85584.png"
+        },
+        {
+            "id": "127",
+            "name_category": "clash",
+            "title": "clash 127",
+            "image": "https://i.pinimg.com/originals/0c/13/45/0c13452e3cfa6406a8fd2d1788b525ec.jpg"
+        },
+        {
+            "id": "128",
+            "name_category": "clash",
+            "title": "clash 128",
+            "image": "https://i.pinimg.com/originals/51/e3/32/51e3328bf34101221900461b4c92ad2b.jpg"
+        },
+        {
+            "id": "129",
+            "name_category": "clash",
+            "title": "clash 129",
+            "image": "https://i.pinimg.com/originals/98/44/b9/9844b95269a01c87f19665afa08600b9.jpg"
+        },
+        {
+            "id": "130",
+            "name_category": "clash",
+            "title": "clash 130",
+            "image": "https://i.pinimg.com/originals/3c/32/a4/3c32a443d7d2b77867d743bed4df3f5f.png"
+        },
+        {
+            "id": "131",
+            "name_category": "clash",
+            "title": "clash 131",
+            "image": "https://i.pinimg.com/originals/5d/97/55/5d975586ade11020dda1b439f2e77e12.png"
+        },
+        {
+            "id": "132",
+            "name_category": "clash",
+            "title": "clash 132",
+            "image": "https://i.pinimg.com/originals/8e/1d/c7/8e1dc7efdfd62cef1e8c5e160ff64cd8.jpg"
+        },
+        {
+            "id": "133",
+            "name_category": "clash",
+            "title": "clash 133",
+            "image": "https://i.pinimg.com/originals/d9/ce/c1/d9cec19540edb24d05584d21fc9f9955.jpg"
+        },
+        {
+            "id": "134",
+            "name_category": "clash",
+            "title": "clash 134",
+            "image": "https://i.pinimg.com/originals/d8/20/bc/d820bc491aa5c9738d9d5324dcfaa945.jpg"
+        },
+        {
+            "id": "135",
+            "name_category": "clash",
+            "title": "clash 135",
+            "image": "https://i.pinimg.com/originals/ae/57/f0/ae57f0204a3e712bec1d3fa4d96d37a1.jpg"
+        },
+        {
+            "id": "136",
+            "name_category": "clash",
+            "title": "clash 136",
+            "image": "https://i.pinimg.com/originals/e3/13/0c/e3130c0297b7d9f6bcb1cb194ad8bf61.jpg"
+        },
+        {
+            "id": "137",
+            "name_category": "clash",
+            "title": "clash 137",
+            "image": "https://i.pinimg.com/originals/c4/4c/ad/c44cadde9fc1da1b4adc0cd9a0fe4cc6.jpg"
+        },
+        {
+            "id": "138",
+            "name_category": "clash",
+            "title": "clash 138",
+            "image": "https://i.pinimg.com/originals/bc/d3/e8/bcd3e8aa0cb432b83120c5967034ef0f.jpg"
+        },
+        {
+            "id": "139",
+            "name_category": "clash",
+            "title": "clash 139",
+            "image": "https://i.pinimg.com/originals/f6/b1/16/f6b116a0989b3076769f2c7eac03678c.jpg"
+        },
+        {
+            "id": "140",
+            "name_category": "clash",
+            "title": "clash 140",
+            "image": "https://i.pinimg.com/originals/a4/22/91/a42291da2f7de1ac93d2dd9f152ad73c.png"
+        },
+        {
+            "id": "141",
+            "name_category": "clash",
+            "title": "clash 141",
+            "image": "https://i.pinimg.com/originals/65/32/f0/6532f03685655daaa43b27cea13c9506.jpg"
+        },
+        {
+            "id": "142",
+            "name_category": "clash",
+            "title": "clash 142",
+            "image": "https://i.pinimg.com/originals/18/d3/23/18d32325534400afebc830834b4fec1d.png"
+        },
+        {
+            "id": "143",
+            "name_category": "clash",
+            "title": "clash 143",
+            "image": "https://i.pinimg.com/originals/6b/5d/4b/6b5d4bb16a8ee5db862e835a77f7831e.jpg"
+        },
+        {
+            "id": "144",
+            "name_category": "clash",
+            "title": "clash 144",
+            "image": "https://i.pinimg.com/originals/ba/6b/12/ba6b1250260343882f33b8d53c72ad61.jpg"
+        },
+        {
+            "id": "145",
+            "name_category": "clash",
+            "title": "clash 145",
+            "image": "https://i.pinimg.com/originals/90/e9/52/90e952c1f0758f9c47c1aa922bb504d1.png"
+        },
+        {
+            "id": "146",
+            "name_category": "clash",
+            "title": "clash 146",
+            "image": "https://i.pinimg.com/originals/2a/a4/a7/2aa4a7941e2154a38b31f507501f0a54.jpg"
+        },
+        {
+            "id": "147",
+            "name_category": "clash",
+            "title": "clash 147",
+            "image": "https://i.pinimg.com/originals/37/4e/7f/374e7f11d71ccf6df114e44382cb24ac.png"
+        },
+        {
+            "id": "148",
+            "name_category": "clash",
+            "title": "clash 148",
+            "image": "https://i.pinimg.com/originals/3f/7e/1d/3f7e1dca42367cc8fcb73dbdc7c76435.jpg"
+        },
+        {
+            "id": "149",
+            "name_category": "clash",
+            "title": "clash 149",
+            "image": "https://i.pinimg.com/originals/2e/09/81/2e09819aa4dfd4aadb267115992194cf.jpg"
+        },
+
+        {
+            "id": "151",
+            "name_category": "clash",
+            "title": "clash 151",
+            "image": "https://i.pinimg.com/originals/00/fa/74/00fa7480172bd9d4e4ab2e6cac164b9e.jpg"
+        },
+        {
+            "id": "152",
+            "name_category": "clash",
+            "title": "clash 152",
+            "image": "https://i.pinimg.com/originals/c8/d5/d0/c8d5d02574c01b7d074eabf904d74cba.jpg"
+        },
+        {
+            "id": "153",
+            "name_category": "clash",
+            "title": "clash 153",
+            "image": "https://i.pinimg.com/originals/c5/44/ee/c544eee290cf4eee5bb4e4b1977cbe95.jpg"
+        },
+        {
+            "id": "154",
+            "name_category": "clash",
+            "title": "clash 154",
+            "image": "https://i.pinimg.com/originals/01/84/b5/0184b5455c76fc3ea1599ff125756ff5.jpg"
+        },
+        {
+            "id": "155",
+            "name_category": "clash",
+            "title": "clash 155",
+            "image": "https://i.pinimg.com/originals/63/66/90/6366908d80339ec6dee2a648627cc0d2.jpg"
+        },
+        {
+            "id": "156",
+            "name_category": "clash",
+            "title": "clash 156",
+            "image": "https://i.pinimg.com/originals/9d/48/06/9d4806eb3ecea0bf88dce0e9269aa981.jpg"
+        },
+        {
+            "id": "157",
+            "name_category": "clash",
+            "title": "clash 157",
+            "image": "https://i.pinimg.com/originals/4b/2a/81/4b2a8183303beface8f5edede71b9dbc.jpg"
+        },
+        {
+            "id": "158",
+            "name_category": "clash",
+            "title": "clash 158",
+            "image": "https://i.pinimg.com/originals/74/a2/50/74a25047c4a7598a53cfad01d5e0e773.jpg"
+        },
+        {
+            "id": "159",
+            "name_category": "clash",
+            "title": "clash 159",
+            "image": "https://i.pinimg.com/originals/4a/d7/7a/4ad77a0aac05720eecc6e0d56993cc34.png"
+        },
+        {
+            "id": "160",
+            "name_category": "clash",
+            "title": "clash 160",
+            "image": "https://i.pinimg.com/originals/7f/b4/dc/7fb4dcfa0f88bfe3fbdbeeb0a939858c.jpg"
+        },
+        {
+            "id": "161",
+            "name_category": "clash",
+            "title": "clash 161",
+            "image": "https://i.pinimg.com/originals/c9/fb/af/c9fbaf23ee250e5cff5a4daedf8b26f3.jpg"
+        },
+        {
+            "id": "162",
+            "name_category": "clash",
+            "title": "clash 162",
+            "image": "https://i.pinimg.com/originals/2a/3a/5b/2a3a5b92e1e144d2e26018614a8e8569.jpg"
+        },
+        {
+            "id": "163",
+            "name_category": "clash",
+            "title": "clash 163",
+            "image": "https://i.pinimg.com/originals/64/30/5f/64305fbdf52ea986c41a96d3288de107.png"
+        },
+        {
+            "id": "164",
+            "name_category": "clash",
+            "title": "clash 164",
+            "image": "https://i.pinimg.com/originals/9c/fd/b6/9cfdb6f6d768c239f1b07171cab07be5.jpg"
+        },
+        {
+            "id": "165",
+            "name_category": "clash",
+            "title": "clash 165",
+            "image": "https://i.pinimg.com/originals/13/da/2a/13da2a581013a63a8b9212a04ff082c0.png"
+        },
+        {
+            "id": "166",
+            "name_category": "clash",
+            "title": "clash 166",
+            "image": "https://i.pinimg.com/originals/c2/1b/4f/c21b4f412bdfbd8249f2873a84da62d5.jpg"
+        },
+        {
+            "id": "167",
+            "name_category": "clash",
+            "title": "clash 167",
+            "image": "https://i.pinimg.com/originals/b1/15/a5/b115a59bcae00aadfcc2c2adddabfe4a.jpg"
+        },
+        {
+            "id": "168",
+            "name_category": "clash",
+            "title": "clash 168",
+            "image": "https://i.pinimg.com/originals/a8/c7/70/a8c7700a178674f1918225da53618c48.jpg"
+        },
+        {
+            "id": "169",
+            "name_category": "clash",
+            "title": "clash 169",
+            "image": "https://i.pinimg.com/originals/06/52/cd/0652cd895fbaf03ac1be806eb67b718b.jpg"
+        },
+        {
+            "id": "170",
+            "name_category": "clash",
+            "title": "clash 170",
+            "image": "https://i.pinimg.com/originals/4e/ec/09/4eec09ce84a1331583c611bdc12b7595.jpg"
+        },
+        {
+            "id": "171",
+            "name_category": "clash",
+            "title": "clash 171",
+            "image": "https://i.pinimg.com/originals/ac/84/3d/ac843d490179db4920b700a123690913.jpg"
+        },
+        {
+            "id": "172",
+            "name_category": "clash",
+            "title": "clash 172",
+            "image": "https://i.pinimg.com/originals/f0/44/83/f04483bbad609167bf64d0fd5dd7c0d8.jpg"
+        },
+        {
+            "id": "173",
+            "name_category": "clash",
+            "title": "clash 173",
+            "image": "https://i.pinimg.com/originals/c5/81/c6/c581c634c73e8c251417dfd0b3779c9b.jpg"
+        },
+        {
+            "id": "174",
+            "name_category": "clash",
+            "title": "clash 174",
+            "image": "https://i.pinimg.com/originals/21/ad/18/21ad18e0beaae3bc3e302fcfaccbca7a.jpg"
+        },
+        {
+            "id": "175",
+            "name_category": "clash",
+            "title": "clash 175",
+            "image": "https://i.pinimg.com/originals/76/c0/57/76c057fa5b0aa637f8e02ddc74558d3e.jpg"
+        },
+        {
+            "id": "176",
+            "name_category": "clash",
+            "title": "clash 176",
+            "image": "https://i.pinimg.com/originals/14/6a/02/146a02d5bff720b217006e682c7a2234.png"
+        },
+        {
+            "id": "177",
+            "name_category": "clash",
+            "title": "clash 177",
+            "image": "https://i.pinimg.com/originals/59/37/86/593786ad965270c13568981c2ac5c241.jpg"
+        },
+        {
+            "id": "178",
+            "name_category": "clash",
+            "title": "clash 178",
+            "image": "https://i.pinimg.com/originals/f0/e3/ab/f0e3ab88e79c0d0129af992cdc24bc92.png"
+        },
+        {
+            "id": "179",
+            "name_category": "clash",
+            "title": "clash 179",
+            "image": "https://i.pinimg.com/originals/77/c4/4e/77c44e0dff38b56c90a45d11c2a35393.jpg"
+        },
+        {
+            "id": "180",
+            "name_category": "clash",
+            "title": "clash 180",
+            "image": "https://i.pinimg.com/originals/f3/2b/e7/f32be7c932e9a468a05fc38beeaa979a.jpg"
+        },
+        {
+            "id": "181",
+            "name_category": "clash",
+            "title": "clash 181",
+            "image": "https://i.pinimg.com/originals/37/46/09/3746092953b46e591dca363007e6ff12.jpg"
+        },
+        {
+            "id": "182",
+            "name_category": "clash",
+            "title": "clash 182",
+            "image": "https://i.pinimg.com/originals/f9/2a/54/f92a5474e8628a0c9e0bfd1e645e030d.jpg"
+        },
+        {
+            "id": "183",
+            "name_category": "clash",
+            "title": "clash 183",
+            "image": "https://i.pinimg.com/originals/05/fe/0b/05fe0b211506e3d4212eb9219438514d.jpg"
+        },
+        {
+            "id": "184",
+            "name_category": "clash",
+            "title": "clash 184",
+            "image": "https://i.pinimg.com/originals/d3/e1/2b/d3e12b42392747dcfff5862b656ced99.jpg"
+        },
+        {
+            "id": "185",
+            "name_category": "clash",
+            "title": "clash 185",
+            "image": "https://i.pinimg.com/originals/13/1c/2c/131c2cea8318fcdb68d18e7f987e75eb.jpg"
+        },
+        {
+            "id": "186",
+            "name_category": "clash",
+            "title": "clash 186",
+            "image": "https://i.pinimg.com/originals/54/9b/30/549b3060be0a0a314fd8dc42b17253a3.png"
+        },
+        {
+            "id": "187",
+            "name_category": "clash",
+            "title": "clash 187",
+            "image": "https://i.pinimg.com/originals/c6/ea/14/c6ea145f1bc7d012a4174536bb0a2862.png"
+        },
+        {
+            "id": "188",
+            "name_category": "clash",
+            "title": "clash 188",
+            "image": "https://i.pinimg.com/originals/ed/9b/72/ed9b7285cf418566f7da7d9b1ea71794.jpg"
+        },
+        {
+            "id": "189",
+            "name_category": "clash",
+            "title": "clash 189",
+            "image": "https://i.pinimg.com/originals/36/6a/88/366a882145e58a3cfc6e018b6e6f9198.jpg"
+        },
+        {
+            "id": "190",
+            "name_category": "clash",
+            "title": "clash 190",
+            "image": "https://i.pinimg.com/originals/4a/2d/79/4a2d797596b02e3597536e9da361355f.jpg"
+        },
+        {
+            "id": "191",
+            "name_category": "clash",
+            "title": "clash 191",
+            "image": "https://i.pinimg.com/originals/c3/25/9e/c3259e786d17f30a00ec764bedded1d9.jpg"
+        },
+        {
+            "id": "192",
+            "name_category": "clash",
+            "title": "clash 192",
+            "image": "https://i.pinimg.com/originals/31/9a/5c/319a5cd78b06b09e7cc7b4bb96a9ba82.jpg"
+        },
+        {
+            "id": "193",
+            "name_category": "clash",
+            "title": "clash 193",
+            "image": "https://i.pinimg.com/originals/90/fa/6d/90fa6d59fc86c4ef83448a9ef3c8ebc4.jpg"
+        },
+        {
+            "id": "194",
+            "name_category": "clash",
+            "title": "clash 194",
+            "image": "https://i.pinimg.com/originals/b1/d0/15/b1d015e4a35ccdca4f4dd9720131c875.jpg"
+        },
+        {
+            "id": "195",
+            "name_category": "clash",
+            "title": "clash 195",
+            "image": "https://i.pinimg.com/originals/7e/2a/d8/7e2ad89e30aea41752757d58a8728dab.jpg"
+        },
+        {
+            "id": "196",
+            "name_category": "clash",
+            "title": "clash 196",
+            "image": "https://i.pinimg.com/originals/00/14/03/00140396beb20c42ab76e9c19df27f48.jpg"
+        },
+        {
+            "id": "197",
+            "name_category": "clash",
+            "title": "clash 197",
+            "image": "https://i.pinimg.com/originals/ea/e7/4a/eae74a0f3003202bfadc3cde4a234324.jpg"
+        },
+        {
+            "id": "198",
+            "name_category": "clash",
+            "title": "clash 198",
+            "image": "https://i.pinimg.com/originals/6e/d2/77/6ed277267b7827bbfb356430933a78fa.jpg"
+        },
+        {
+            "id": "199",
+            "name_category": "clash",
+            "title": "clash 199",
+            "image": "https://i.pinimg.com/originals/24/77/00/2477006738862c37a6db352370d6090a.jpg"
+        },
+        {
+            "id": "200",
+            "name_category": "clash",
+            "title": "clash 200",
+            "image": "https://i.pinimg.com/originals/4a/04/24/4a0424d7d115263e61895ea758ed8fcb.png"
+        },
+        {
+            "id": "201",
+            "name_category": "clash",
+            "title": "clash 201",
+            "image": "https://i.pinimg.com/originals/d6/b4/ce/d6b4ce1e6c470ca24923b7b3fa76d9f9.jpg"
+        },
+        {
+            "id": "202",
+            "name_category": "clash",
+            "title": "clash 202",
+            "image": "https://i.pinimg.com/originals/9a/2b/a6/9a2ba6228362093674beb4f5b2f222f8.jpg"
+        },
+        {
+            "id": "203",
+            "name_category": "clash",
+            "title": "clash 203",
+            "image": "https://i.pinimg.com/originals/29/db/71/29db71fe91260ebc0b33ca5b3bc20ddf.png"
+        },
+        {
+            "id": "204",
+            "name_category": "clash",
+            "title": "clash 204",
+            "image": "https://i.pinimg.com/originals/3d/84/65/3d84657b1f290102bfc17a017e306624.jpg"
+        },
+        {
+            "id": "205",
+            "name_category": "clash",
+            "title": "clash 205",
+            "image": "https://i.pinimg.com/originals/eb/00/6c/eb006cdc0b0b40609df97ef097d7e37d.jpg"
+        },
+        {
+            "id": "206",
+            "name_category": "clash",
+            "title": "clash 206",
+            "image": "https://i.pinimg.com/originals/e3/cf/74/e3cf7465cac2ddafac1c8693d976d1eb.png"
+        },
+        {
+            "id": "207",
+            "name_category": "clash",
+            "title": "clash 207",
+            "image": "https://i.pinimg.com/originals/13/67/2b/13672b571fc5968f3721bf0e4e0f7e83.jpg"
+        },
+        {
+            "id": "208",
+            "name_category": "clash",
+            "title": "clash 208",
+            "image": "https://i.pinimg.com/originals/db/26/6e/db266eb3d712f53215d97af7b40e6754.jpg"
+        },
+        {
+            "id": "209",
+            "name_category": "clash",
+            "title": "clash 209",
+            "image": "https://i.pinimg.com/originals/6d/46/3a/6d463a5190a9c8584c7c3c3b62e4ea45.jpg"
+        },
+        {
+            "id": "210",
+            "name_category": "clash",
+            "title": "clash 210",
+            "image": "https://i.pinimg.com/originals/dd/3f/dd/dd3fdd1ddb00ceae3335db564619af61.jpg"
+        },
+        {
+            "id": "211",
+            "name_category": "clash",
+            "title": "clash 211",
+            "image": "https://i.pinimg.com/originals/ad/b3/9e/adb39e214ce2b8d0875705331c85c8a7.jpg"
+        },
+        {
+            "id": "212",
+            "name_category": "clash",
+            "title": "clash 212",
+            "image": "https://i.pinimg.com/originals/70/39/05/703905d7be9adc682c832090759ce484.jpg"
+        },
+        {
+            "id": "213",
+            "name_category": "clash",
+            "title": "clash 213",
+            "image": "https://i.pinimg.com/originals/11/e6/23/11e623b2396cc6d04d75ed86fbd18976.jpg"
+        },
+        {
+            "id": "214",
+            "name_category": "clash",
+            "title": "clash 214",
+            "image": "https://i.pinimg.com/originals/60/4f/98/604f984893a53f20ecfcf1d4be32bf2c.jpg"
+        },
+        {
+            "id": "215",
+            "name_category": "clash",
+            "title": "clash 215",
+            "image": "https://i.pinimg.com/originals/0d/e8/24/0de82404206b08b75722ce261f4062b8.png"
+        },
+        {
+            "id": "216",
+            "name_category": "clash",
+            "title": "clash 216",
+            "image": "https://i.pinimg.com/originals/df/e2/68/dfe268b2fb250449b80f013f29dc4fdf.jpg"
+        },
+        {
+            "id": "217",
+            "name_category": "clash",
+            "title": "clash 217",
+            "image": "https://i.pinimg.com/originals/5c/d3/57/5cd357c5721ad47604c0757998017d24.jpg"
+        },
+        {
+            "id": "218",
+            "name_category": "clash",
+            "title": "clash 218",
+            "image": "https://i.pinimg.com/originals/90/14/d4/9014d4a226517d7f87475da8a8b3bd55.jpg"
+        },
+        {
+            "id": "219",
+            "name_category": "clash",
+            "title": "clash 219",
+            "image": "https://i.pinimg.com/originals/dd/bf/88/ddbf88ac975e39f78bbb04233868bc2e.jpg"
+        },
+        {
+            "id": "220",
+            "name_category": "clash",
+            "title": "clash 220",
+            "image": "https://i.pinimg.com/originals/b2/75/3a/b2753acde7db5cb8043b3910bbaf9500.jpg"
+        },
+        {
+            "id": "221",
+            "name_category": "clash",
+            "title": "clash 221",
+            "image": "https://i.pinimg.com/originals/56/07/34/5607347d6a7729380fb692c0b81afb86.jpg"
+        },
+        {
+            "id": "222",
+            "name_category": "clash",
+            "title": "clash 222",
+            "image": "https://i.pinimg.com/originals/99/7b/ae/997bae151a65c191d3a7a76c401ac933.jpg"
+        },
+        {
+            "id": "223",
+            "name_category": "clash",
+            "title": "clash 223",
+            "image": "https://i.pinimg.com/originals/c5/a0/61/c5a0613d64b53979b31cac1bdfb9b33d.jpg"
+        },
+        {
+            "id": "224",
+            "name_category": "clash",
+            "title": "clash 224",
+            "image": "https://i.pinimg.com/originals/b8/58/0c/b8580c8982857b8154a8f6e99f7cf5f9.jpg"
+        },
+        {
+            "id": "225",
+            "name_category": "clash",
+            "title": "clash 225",
+            "image": "https://i.pinimg.com/originals/d8/27/44/d827441d28789f2f2915658c42646272.png"
+        },
+        {
+            "id": "226",
+            "name_category": "clash",
+            "title": "clash 226",
+            "image": "https://i.pinimg.com/originals/58/4c/ff/584cffdc16f172f3466578429d5cccc9.jpg"
+        },
+        {
+            "id": "227",
+            "name_category": "clash",
+            "title": "clash 227",
+            "image": "https://i.pinimg.com/originals/61/ce/ef/61ceef36db60f585aca0d0d2d6ed04c7.jpg"
+        },
+        {
+            "id": "228",
+            "name_category": "clash",
+            "title": "clash 228",
+            "image": "https://i.pinimg.com/originals/a7/a3/dc/a7a3dc5aa3c68517bc939f7a40840819.png"
+        },
+        {
+            "id": "229",
+            "name_category": "clash",
+            "title": "clash 229",
+            "image": "https://i.pinimg.com/originals/c0/69/74/c0697440948ebac49ebbae1609989e2a.jpg"
+        },
+        {
+            "id": "230",
+            "name_category": "clash",
+            "title": "clash 230",
+            "image": "https://i.pinimg.com/originals/1e/78/0e/1e780e8da4de1759d52512b314ec4a64.png"
+        },
+        {
+            "id": "231",
+            "name_category": "clash",
+            "title": "clash 231",
+            "image": "https://i.pinimg.com/originals/47/ce/88/47ce88c12939cbfcb4a896ae3d1916df.jpg"
+        },
+        {
+            "id": "232",
+            "name_category": "clash",
+            "title": "clash 232",
+            "image": "https://i.pinimg.com/originals/19/fc/db/19fcdbe8a42bd6d042ce9740e0372928.jpg"
+        },
+        {
+            "id": "233",
+            "name_category": "clash",
+            "title": "clash 233",
+            "image": "https://i.pinimg.com/originals/7d/00/d4/7d00d492c302fa2dc4c2fed56c8716a9.jpg"
+        },
+        {
+            "id": "234",
+            "name_category": "clash",
+            "title": "clash 234",
+            "image": "https://i.pinimg.com/originals/02/f7/22/02f7229ccc4c500ad4b61ad1f8db4564.jpg"
+        },
+        {
+            "id": "235",
+            "name_category": "clash",
+            "title": "clash 235",
+            "image": "https://i.pinimg.com/originals/15/55/35/1555355ae5dad01d7b96bc8648127976.jpg"
+        },
+        {
+            "id": "236",
+            "name_category": "clash",
+            "title": "clash 236",
+            "image": "https://i.pinimg.com/originals/3c/a7/8d/3ca78df3e98330ed273fef3a2367fe12.jpg"
+        },
+        {
+            "id": "237",
+            "name_category": "clash",
+            "title": "clash 237",
+            "image": "https://i.pinimg.com/originals/5d/30/b4/5d30b4af4424e257b7d1fb52bf19f466.jpg"
+        },
+        {
+            "id": "238",
+            "name_category": "clash",
+            "title": "clash 238",
+            "image": "https://i.pinimg.com/originals/04/98/7a/04987a53e223ab8e8a811baab1d776ab.jpg"
+        },
+        {
+            "id": "239",
+            "name_category": "clash",
+            "title": "clash 239",
+            "image": "https://i.pinimg.com/originals/7b/07/15/7b0715a02dcbeb4fa5e5c6e614dd9421.jpg"
+        },
+        {
+            "id": "240",
+            "name_category": "clash",
+            "title": "clash 240",
+            "image": "https://i.pinimg.com/originals/de/39/cd/de39cd7d49f2737019b9fe0c2d5ea429.jpg"
+        },
+        {
+            "id": "241",
+            "name_category": "clash",
+            "title": "clash 241",
+            "image": "https://i.pinimg.com/originals/0d/ff/65/0dff657a23cd35c755f0327e4031c38a.png"
+        },
+        {
+            "id": "242",
+            "name_category": "clash",
+            "title": "clash 242",
+            "image": "https://i.pinimg.com/originals/6a/19/f5/6a19f592f12c4c79806061936a3f3b36.jpg"
+        },
+        {
+            "id": "243",
+            "name_category": "clash",
+            "title": "clash 243",
+            "image": "https://i.pinimg.com/originals/7d/fc/a3/7dfca3040e0e0c8f1d2c6e9bf6dff2d3.png"
+        },
+        {
+            "id": "244",
+            "name_category": "clash",
+            "title": "clash 244",
+            "image": "https://i.pinimg.com/originals/fb/a6/b4/fba6b49361752b84ecd6647ad3e44209.jpg"
+        },
+        {
+            "id": "245",
+            "name_category": "clash",
+            "title": "clash 245",
+            "image": "https://i.pinimg.com/originals/41/90/56/41905672a2a8d6d558f600a0070e335a.jpg"
+        },
+        {
+            "id": "246",
+            "name_category": "clash",
+            "title": "clash 246",
+            "image": "https://i.pinimg.com/originals/49/d4/d1/49d4d16d0fa42614462b59b5d709fdc6.jpg"
+        },
+        {
+            "id": "247",
+            "name_category": "clash",
+            "title": "clash 247",
+            "image": "https://i.pinimg.com/originals/81/e6/80/81e6800c344e43d40c899312967d16cb.jpg"
+        },
+        {
+            "id": "248",
+            "name_category": "clash",
+            "title": "clash 248",
+            "image": "https://i.pinimg.com/originals/76/8b/6c/768b6cf8d20ef0e77728d48b3e95c799.jpg"
+        },
+        {
+            "id": "249",
+            "name_category": "clash",
+            "title": "clash 249",
+            "image": "https://i.pinimg.com/originals/c6/f8/ee/c6f8eed6b2cb16d70e95bba3ccf8b49d.jpg"
+        },
+        {
+            "id": "250",
+            "name_category": "clash",
+            "title": "clash 250",
+            "image": "https://i.pinimg.com/originals/e3/96/d0/e396d00523f00e387b1c718959ac098d.png"
+        },
+        {
+            "id": "251",
+            "name_category": "clash",
+            "title": "clash 251",
+            "image": "https://i.pinimg.com/originals/39/c6/e3/39c6e3546a8d8e6349f5b7166433f41f.jpg"
+        },
+        {
+            "id": "252",
+            "name_category": "clash",
+            "title": "clash 252",
+            "image": "https://i.pinimg.com/originals/38/80/37/38803703f47137d6bf93c3ccf24b8cc8.png"
+        },
+        {
+            "id": "253",
+            "name_category": "clash",
+            "title": "clash 253",
+            "image": "https://i.pinimg.com/originals/03/a1/e3/03a1e377d6f000f1421ea3aa263c43c9.jpg"
+        },
+        {
+            "id": "254",
+            "name_category": "clash",
+            "title": "clash 254",
+            "image": "https://i.pinimg.com/originals/06/a4/20/06a4201c876c215d17d6d34fa5d4f306.jpg"
+        },
+        {
+            "id": "255",
+            "name_category": "clash",
+            "title": "clash 255",
+            "image": "https://i.pinimg.com/originals/96/0e/77/960e773c73888fa8399de9746837dea7.png"
+        },
+        {
+            "id": "256",
+            "name_category": "clash",
+            "title": "clash 256",
+            "image": "https://i.pinimg.com/originals/26/46/51/2646513ddf08c3b2a56f737dc5a049b1.jpg"
+        },
+        {
+            "id": "257",
+            "name_category": "clash",
+            "title": "clash 257",
+            "image": "https://i.pinimg.com/originals/31/04/2b/31042b66ea260f8da96d5351df982da1.jpg"
+        },
+        {
+            "id": "258",
+            "name_category": "clash",
+            "title": "clash 258",
+            "image": "https://i.pinimg.com/originals/12/ef/46/12ef46e3f1b3591b8621e135cb217ad4.png"
+        },
+        {
+            "id": "259",
+            "name_category": "clash",
+            "title": "clash 259",
+            "image": "https://i.pinimg.com/originals/38/fa/3f/38fa3f6996df6293075a762e9f91a936.png"
+        },
+        {
+            "id": "260",
+            "name_category": "clash",
+            "title": "clash 260",
+            "image": "https://i.pinimg.com/originals/ae/2c/22/ae2c22ca707c9ea4726362c29495ad51.jpg"
+        },
+        {
+            "id": "261",
+            "name_category": "clash",
+            "title": "clash 261",
+            "image": "https://i.pinimg.com/originals/15/64/8c/15648c5239d2827a2131f87a7f78f053.jpg"
+        },
+        {
+            "id": "262",
+            "name_category": "clash",
+            "title": "clash 262",
+            "image": "https://i.pinimg.com/originals/73/87/33/7387339f24b84c490caf2511da9717d3.png"
+        },
+        {
+            "id": "263",
+            "name_category": "clash",
+            "title": "clash 263",
+            "image": "https://i.pinimg.com/originals/84/e3/57/84e357a076c00a94cc20e3b955f20faf.jpg"
+        },
+        {
+            "id": "264",
+            "name_category": "clash",
+            "title": "clash 264",
+            "image": "https://i.pinimg.com/originals/9a/f1/6c/9af16ce08133f6fe3bea580a47124636.jpg"
+        },
+        {
+            "id": "265",
+            "name_category": "clash",
+            "title": "clash 265",
+            "image": "https://i.pinimg.com/originals/80/0d/b9/800db982bdaf8b1d200f2e97fd0f2667.jpg"
+        },
+        {
+            "id": "266",
+            "name_category": "clash",
+            "title": "clash 266",
+            "image": "https://i.pinimg.com/originals/7c/d6/78/7cd678c94d03b14b5965632ed05ded92.jpg"
+        },
+        {
+            "id": "267",
+            "name_category": "clash",
+            "title": "clash 267",
+            "image": "https://i.pinimg.com/originals/2f/b2/c2/2fb2c28da06d66def1dc9ecd439b7767.png"
+        },
+        {
+            "id": "268",
+            "name_category": "clash",
+            "title": "clash 268",
+            "image": "https://i.pinimg.com/originals/39/3f/88/393f8893eca98c040477006fd018bb70.jpg"
+        },
+        {
+            "id": "269",
+            "name_category": "clash",
+            "title": "clash 269",
+            "image": "https://i.pinimg.com/originals/4a/84/f5/4a84f5a62a03151f0f02a1016a425808.jpg"
+        },
+        {
+            "id": "270",
+            "name_category": "clash",
+            "title": "clash 270",
+            "image": "https://i.pinimg.com/originals/d1/c5/de/d1c5de9479fc377311b4510589239deb.jpg"
+        },
+        {
+            "id": "271",
+            "name_category": "clash",
+            "title": "clash 271",
+            "image": "https://i.pinimg.com/originals/c9/fe/97/c9fe97c3ab6eb6baf19b10f8b77562ea.jpg"
+        },
+        {
+            "id": "272",
+            "name_category": "clash",
+            "title": "clash 272",
+            "image": "https://i.pinimg.com/originals/4c/2a/e7/4c2ae76a35e188c756f7d5ede487dc30.jpg"
+        },
+        {
+            "id": "273",
+            "name_category": "clash",
+            "title": "clash 273",
+            "image": "https://i.pinimg.com/originals/0b/c4/95/0bc49541ad6c584f2945107e377e38f2.jpg"
+        },
+        {
+            "id": "274",
+            "name_category": "clash",
+            "title": "clash 274",
+            "image": "https://i.pinimg.com/originals/25/38/f6/2538f6e435d10167849d4ab6812b7938.jpg"
+        },
+        {
+            "id": "275",
+            "name_category": "clash",
+            "title": "clash 275",
+            "image": "https://i.pinimg.com/originals/c1/f5/ba/c1f5ba5feb81865b681c32fa2b228a9b.jpg"
+        },
+        {
+            "id": "276",
+            "name_category": "clash",
+            "title": "clash 276",
+            "image": "https://i.pinimg.com/originals/f4/02/02/f4020220a92b272900382adb95bb1f05.jpg"
+        },
+        {
+            "id": "277",
+            "name_category": "clash",
+            "title": "clash 277",
+            "image": "https://i.pinimg.com/originals/05/8d/f6/058df693e4c7f1d0f39a0b7941c6d13e.jpg"
+        },
+        {
+            "id": "278",
+            "name_category": "clash",
+            "title": "clash 278",
+            "image": "https://i.pinimg.com/originals/7e/ff/69/7eff6958713c48a00b6c599fddc34239.jpg"
+        },
+        {
+            "id": "279",
+            "name_category": "clash",
+            "title": "clash 279",
+            "image": "https://i.pinimg.com/originals/16/61/f7/1661f7fd0aaf1597d764936f7eddbe36.jpg"
+        },
+        {
+            "id": "280",
+            "name_category": "clash",
+            "title": "clash 280",
+            "image": "https://i.pinimg.com/originals/c0/c7/64/c0c76491f7354ebc233f8db5c265d99d.jpg"
+        },
+        {
+            "id": "281",
+            "name_category": "clash",
+            "title": "clash 281",
+            "image": "https://i.pinimg.com/originals/db/8a/52/db8a52716f7bacfb9be87f29a99da151.jpg"
+        },
+        {
+            "id": "282",
+            "name_category": "clash",
+            "title": "clash 282",
+            "image": "https://i.pinimg.com/originals/a2/36/ed/a236edf66f3beaa49b124f2dea28c20a.jpg"
+        },
+        {
+            "id": "283",
+            "name_category": "clash",
+            "title": "clash 283",
+            "image": "https://i.pinimg.com/originals/9d/e2/ce/9de2ce3c3181044f07507d9f06e1bdfd.jpg"
+        },
+        {
+            "id": "284",
+            "name_category": "clash",
+            "title": "clash 284",
+            "image": "https://i.pinimg.com/originals/94/a8/cc/94a8ccd1d4f353c7677e17de0bcca985.jpg"
+        },
+        {
+            "id": "285",
+            "name_category": "clash",
+            "title": "clash 285",
+            "image": "https://i.pinimg.com/originals/69/e8/af/69e8afc8e157a2b47d7017502512a533.jpg"
+        },
+        {
+            "id": "286",
+            "name_category": "clash",
+            "title": "clash 286",
+            "image": "https://i.pinimg.com/originals/fc/e5/5a/fce55a6e179777d04e5898a1038b27aa.jpg"
+        },
+        {
+            "id": "287",
+            "name_category": "clash",
+            "title": "clash 287",
+            "image": "https://i.pinimg.com/originals/29/ef/c6/29efc6642b065096c4cef4cbc7f8ba51.jpg"
+        },
+        {
+            "id": "288",
+            "name_category": "clash",
+            "title": "clash 288",
+            "image": "https://i.pinimg.com/originals/09/e4/07/09e407c7bac150a24c2c9020f4051052.png"
+        },
+        {
+            "id": "289",
+            "name_category": "clash",
+            "title": "clash 289",
+            "image": "https://i.pinimg.com/originals/f1/a6/98/f1a698c342d6e45b33491e850c9db94e.jpg"
+        },
+        {
+            "id": "290",
+            "name_category": "clash",
+            "title": "clash 290",
+            "image": "https://i.pinimg.com/originals/c0/5a/83/c05a83cdc033929ca731ecb4c7779cb5.jpg"
+        },
+        {
+            "id": "291",
+            "name_category": "clash",
+            "title": "clash 291",
+            "image": "https://i.pinimg.com/originals/47/30/fe/4730fe975424f06490fa125e7ba2eb93.jpg"
+        },
+        {
+            "id": "292",
+            "name_category": "clash",
+            "title": "clash 292",
+            "image": "https://i.pinimg.com/originals/44/74/ea/4474ea5d9e37208852fad52376965e7f.png"
+        },
+        {
+            "id": "293",
+            "name_category": "clash",
+            "title": "clash 293",
+            "image": "https://i.pinimg.com/originals/41/5b/de/415bded6de251ee363bb95ec9d64e4d0.jpg"
+        },
+        {
+            "id": "294",
+            "name_category": "clash",
+            "title": "clash 294",
+            "image": "https://i.pinimg.com/originals/34/f9/ff/34f9ffc113976a334d9ce8134bf320a1.png"
+        },
+        {
+            "id": "295",
+            "name_category": "clash",
+            "title": "clash 295",
+            "image": "https://i.pinimg.com/originals/51/79/f1/5179f19dee24aceb0d3309224c3c8268.png"
+        },
+        {
+            "id": "296",
+            "name_category": "clash",
+            "title": "clash 296",
+            "image": "https://i.pinimg.com/originals/2f/95/08/2f95081e8309dca1884d1a3723947cc8.jpg"
+        },
+        {
+            "id": "297",
+            "name_category": "clash",
+            "title": "clash 297",
+            "image": "https://i.pinimg.com/originals/b9/57/6a/b9576ad3aadeba168769202622b61a08.jpg"
+        },
+        {
+            "id": "298",
+            "name_category": "clash",
+            "title": "clash 298",
+            "image": "https://i.pinimg.com/originals/f1/76/48/f176487aca9228a715899f309f38416b.webp"
+        },
+        {
+            "id": "299",
+            "name_category": "clash",
+            "title": "clash 299",
+            "image": "https://i.pinimg.com/originals/9b/bf/ed/9bbfed547b19b7821bc7510bf9faacb7.png"
+        },
+        {
+            "id": "300",
+            "name_category": "clash",
+            "title": "clash 300",
+            "image": "https://i.pinimg.com/originals/54/96/c4/5496c4956d77d57d6eb0298776249ad6.jpg"
+        },
+        {
+            "id": "301",
+            "name_category": "clash",
+            "title": "clash 301",
+            "image": "https://i.pinimg.com/originals/b0/41/5e/b0415e95f307ec9a6ff6b4800e753072.jpg"
+        }
+    ]
+}
