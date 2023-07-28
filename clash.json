@@ -1,17 +1,17 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "XXXXX",
       "select_backup_ads":"XXXXX",
-      "main_ads_banner": "ca-app-pub-",
-      "main_ads_intertitial":"ca-app-pub-",
-      "main_ads_natives":"ca-app-pub-",
-      "main_ads_rewards":"ca-app-pub-",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"ca-app-pub-",
+      "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"",
       "open_wortise":"",
