@@ -2,7 +2,7 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"ADMOB",
+      "select_backup_ads":"NULL",
       "main_ads_banner": "186287601006046_186294397672033",
       "main_ads_intertitial":"186287601006046_186294664338673",
       "main_ads_natives":"186287601006046_186294724338667",
@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "open_ads_max":"",
       "open_wortise":"",
-      "on_off_native_listview":"1",
+      "on_off_native_listview":"0",
       "mode_list": "3",
       "interval_intertitial": 5,
       "initialize_sdk":"",
