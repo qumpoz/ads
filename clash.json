@@ -2,12 +2,12 @@
   "Ads": [
     {
       "select_main_ads": "FACEBOOK",
-      "select_backup_ads":"NULL",
+      "select_backup_ads":"ADMOB",
       "main_ads_banner": "186287601006046_186294397672033",
       "main_ads_intertitial":"186287601006046_186294664338673",
       "main_ads_natives":"186287601006046_186294724338667",
       "main_ads_rewards":"186287601006046_188542644113875",
-      "backup_ads_natives":"ca-app-pub-8689177265332508/3414678663",
+      "backup_ads_natives":"",
       "backup_ads_banner":"ca-app-pub-8689177265332508/7280087277",
       "backup_ads_intertitial":"ca-app-pub-8689177265332508/8667005349",
       "backup_ads_rewards":"",
@@ -15,7 +15,7 @@
       "open_ads_alien":"",
       "open_ads_max":"",
       "open_wortise":"",
-      "on_off_native_listview":"0",
+      "on_off_native_listview":"1",
       "mode_list": "3",
       "interval_intertitial": 5,
       "initialize_sdk":"",
