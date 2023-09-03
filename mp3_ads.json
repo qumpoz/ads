@@ -1,12 +1,12 @@
 {
-  "pc": "com.songs_music.mp3_tube_free",
-  "client_id_music": "bc930b1d",
+  "pc": "",
+  "client_id_music": "",
   "interval_inter": 3,
   "admob": [
     {
-      "banner": "ca-app-pub-8689177265332508/5084204741",
-      "inter": "ca-app-pub-8689177265332508/3543629034",
-      "native": "ca-app-pub-8689177265332508/8432993630"
+      "banner": "",
+      "inter": "",
+      "native": ""
     }
   ],
   "applovin": [
