@@ -1,17 +1,17 @@
 {
-  "pc": "com.all_video_downloader_tubee_mateee.social_status_saver_hd4k",
+  "pc": "",
   "interval_inter": 5,
   "admob": [
     {
-      "banner": "ca-app-pub-8689177265332508/2515109088",
-      "native": "ca-app-pub-8689177265332508/9596943637",
-      "inter": "ca-app-pub-8689177265332508/7874983645"
+      "banner": "",
+      "native": "",
+      "inter": ""
     }
   ],
   "applovin": [
     {
-      "inter": "4b1b9ba15826b7be",
-      "native": "3377120296ddf562"
+      "inter": "",
+      "native": ""
     }
   ]
 }
